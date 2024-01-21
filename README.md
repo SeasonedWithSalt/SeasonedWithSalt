@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SeasonedWithSalt
+- 👋 Hi, I’m @SeasonedwithSalt
 - 👀 I’m interested in empowering humanity to be what it is.
 - 🌱 I’m currently learning how biology and emotions are just as important as facts and logic.
 - 💞️ I’m looking to collaborate on building computers that can interact with their environment
